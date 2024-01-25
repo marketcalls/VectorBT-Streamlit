@@ -13,10 +13,12 @@ To run this app locally, you need the following:
 Python 3.x<br>
 Streamlit<br>
 vectorbt<br>
+yfinance<br>
 pandas<br>
 numpy<br>
 plotly<br>
 pytz<br>
+
 
 <h2>Running the App</h2>
 To run the app, execute the following command in the terminal:
