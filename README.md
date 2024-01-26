@@ -20,7 +20,19 @@ plotly<br>
 pytz<br>
 
 
-<h2>Running the App</h2>
-To run the app, execute the following command in the terminal:
-<code>streamlit run app.py
-</code>
+<h2>Clone the repository:</h2><br>
+
+<code>git clone https://github.com/marketcalls/VectorBT-Streamlit/</code><br>
+
+<h2>Navigate to the app’s directory:</h2>
+
+<code>cd .\VectorBT-Streamlit\</code><br>
+
+<h2>Install required libraries:</h2>
+
+<code>pip install -r requirements.txt</code><br>
+
+<h2>Run the App</h2><br>
+To run the app, execute the following command in the terminal:<br>
+
+<code>streamlit run app.py</code>
