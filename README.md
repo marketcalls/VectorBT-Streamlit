@@ -26,7 +26,8 @@ pytz<br>
 
 <h2>Navigate to the app’s directory:</h2>
 
-<code>cd .\VectorBT-Streamlit\ </code><br>
+<code>cd .\VectorBT-Streamlit\ 
+</code><br>
 
 <h2>Install required libraries:</h2>
 
